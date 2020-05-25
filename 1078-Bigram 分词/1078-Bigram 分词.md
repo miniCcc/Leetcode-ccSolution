@@ -15,4 +15,4 @@ class Solution {
 }
 ```
 IPAD上记录：
-![image]()
+![image](https://github.com/miniCcc/leetcode-cc/blob/master/1078-Bigram%20%E5%88%86%E8%AF%8D/20200525165702.png)
