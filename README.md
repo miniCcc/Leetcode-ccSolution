@@ -28,7 +28,7 @@
 | 1051-高度检查器         | https://leetcode-cn.com/problems/height-checker/                                              | 👉[here](https://github.com/miniCcc/Leetcode-ccSolution/blob/master/1051-%E9%AB%98%E5%BA%A6%E6%A3%80%E6%9F%A5%E5%99%A8/1051-%E9%AB%98%E5%BA%A6%E6%A3%80%E6%9F%A5%E5%99%A8.md)                                                                                                                                                 |
 | 1078-Bigram 分词     | https://leetcode-cn.com/problems/occurrences-after-bigram/                                    | 👉[here](https://github.com/miniCcc/Leetcode-ccSolution/blob/master/1078-Bigram%20%E5%88%86%E8%AF%8D/1078-Bigram%20%E5%88%86%E8%AF%8D.md)                                                                       |
 | 1170-比较字符串最小字母出现频次 | https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/ | 👉[here](https://github.com/miniCcc/Leetcode-ccSolution/blob/master/1170-%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D%E5%87%BA%E7%8E%B0%E9%A2%91%E6%AC%A1/1170-%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D%E5%87%BA%E7%8E%B0%E9%A2%91%E6%AC%A1.md) 
-                              |
+                              
 
 
 
