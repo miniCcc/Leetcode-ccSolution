@@ -18,7 +18,7 @@
 - [0049-字母异位词分组](./solutions/0049-Group Anagrams/0049-Group Anagrams.md)
 - [0077-组合](./solutions/0077-Combinations/0077-Combinations.md)
 - [0078-子集](./solutions/0078-Subsets/0078-Subsets.md)
-- [0080. 删除排序数组中的重复项 II](./solutions/0080-Remove Duplicates from Sorted Array II/0080-Remove Duplicates from Sorted Array II.md)
+- [0080-删除排序数组中的重复项 II](./solutions/0080-Remove Duplicates from Sorted Array II/0080-Remove Duplicates from Sorted Array II.md)
 - [0086-分隔链表](./solutions/0086-Partition List/0086-Partition List.md)
 - [0090-子集 II](./solutions/0090-Subsets II/0090-Subsets II.md)
 - [0094-二叉树的中序遍历](./solutions/0094-Binary Tree Inorder Traversal/0094-Binary Tree Inorder Traversal.md)
@@ -49,6 +49,7 @@
 - [1170-比较字符串最小字母出现频次](./solutions/1170-Compare Strings by Frequency of the Smallest Character/1170-Compare Strings by Frequency of the Smallest Character.md)
 - [1189-“气球”的最大数量](./solutions/1189-Maximum Number of Balloons/1189-Maximum Number of Balloons.md)
 - [1446-连续字符](./solutions/1446-Consecutive Characters/1446-Consecutive Characters.md)
+- [1460-通过翻转子数组使两个数组相等](./solutions/)
 - [1480-一维数组的动态和](./solutions/1480-Running Sum of 1d Array/1480-Running Sum of 1d Array.md)
 - [1486-数组异或操作](./solutions/1486-XOR Operation in an Array/1486-XOR Operation in an Array.md)
-- [5408-通过翻转子数组使两个数组相等](./solutions/)
+
