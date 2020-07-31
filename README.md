@@ -29,6 +29,7 @@
 - [0442-数组中重复的数据](./solutions/0442-Find%20All%20Duplicates%20in%20an%20Array/0442-Find%20All%20Duplicates%20in%20an%20Array.md)
 - [0500-键盘行](./solutions/0500-Keyboard%20Row/0500-Keyboard%20Row.md)
 - [0594-最长和谐子序列](./solutions/0594-Longest%20Harmonious%20Subsequence/0594-Longest%20Harmonious%20Subsequence.md)
+- [0621-任务调度器](./solutions/0621-Task%20Scheduler/0621-Task%20Scheduler.md)
 - [0647-回文子串](./solutions/0647-Palindromic%20Substrings/0647-Palindromic%20Substrings.md)
 - [0700-二叉搜索树中的搜索](./solutions/0700-Search%20in%20a%20Binary%20Search%20Tree/0700-Search%20in%20a%20Binary%20Search%20Tree.md)
 - [0724-寻找数组的中心索引](./solutions/0724-Find%20Pivot%20Index/0724-Find%20Pivot%20Index.md)
