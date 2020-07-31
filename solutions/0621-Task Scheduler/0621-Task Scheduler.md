@@ -27,4 +27,27 @@
 <img src="1596167188269178.jpg" />
 </div>
 3. 特殊情况：<br>
+<div align=center>
+  <img src="1596170655046395.jpg" /> 
+</div>
+
+### Java
+``` java
+class Solution {
+    public int leastInterval(char[] tasks, int n) {
+        if(n == 0) return tasks.length;
+        int max = -1;
+        Map<Character, Integer> map = new HashMap<>();
+        for(char task : tasks){
+            map.put(task, map.getOrDefault(task, 0) + 1);
+            if(map.get(task) > max) max = map.get(task);
+        }
+        int maxCount = 0;
+        for(char c : map.keySet()){
+            if(map.get(c) == max) maxCount++;
+        }
+        return Math.max(tasks.length, (max - 1) * (n + 1) + maxCount);
+    }
+}
+```
 
