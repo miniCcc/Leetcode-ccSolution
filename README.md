@@ -22,6 +22,7 @@
 - [0086-分隔链表](./solutions/0086-Partition%20List/0086-Partition%20List.md)
 - [0090-子集 II](./solutions/0090-Subsets%20II/0090-Subsets%20II.md)
 - [0094-二叉树的中序遍历](./solutions/0094-Binary%20Tree%20Inorder%20Traversal/0094-Binary%20Tree%20Inorder%20Traversal.md)
+- [0114-二叉树展开为链表](./solutions/0114-Flatten%20Binary%20Tree%20to%20Linked%20List/0114-Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 - [0216-组合总和](./solutions/0216-Combination%20Sum%20III/0226-Invert%20Binary%20Tree.md)
 - [0226-翻转二叉树](./solutions/0226-Invert%20Binary%20Tree/0226-Invert%20Binary%20Tree.md)
 - [0238-除自身以外数组的乘积](./solutions/0238-Product%20of%20Array%20Except%20Self/0238-Product%20of%20Array%20Except%20Self.md)
