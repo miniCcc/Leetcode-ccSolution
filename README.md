@@ -1,8 +1,6 @@
 # leetcode-cc
 :muscle:仅此记录我的刷题之路，希望我能坚持，目前简单题做的差不多了，在中等题里挣扎，直接`ctrl+f`搜索相应题目即可
 
-:pencil:初学python，有时候会贴上python题解
-
 :mag_right:**直接点击相应题目的.md后缀文件查看即可**
 
 :warning:【注】：所有记录都不是最优解，只是自己写的，或者看别人的，不会专门搬最优解上来
@@ -33,6 +31,7 @@
 - [0594-最长和谐子序列](./solutions/0594-Longest%20Harmonious%20Subsequence/0594-Longest%20Harmonious%20Subsequence.md)
 - [0621-任务调度器](./solutions/0621-Task%20Scheduler/0621-Task%20Scheduler.md)
 - [0647-回文子串](./solutions/0647-Palindromic%20Substrings/0647-Palindromic%20Substrings.md)
+- [0654-最大二叉树](./solutions/0654-Maximum%20Binary%20Tree/0654-Maximum%20Binary%20Tree.md)
 - [0700-二叉搜索树中的搜索](./solutions/0700-Search%20in%20a%20Binary%20Search%20Tree/0700-Search%20in%20a%20Binary%20Search%20Tree.md)
 - [0724-寻找数组的中心索引](./solutions/0724-Find%20Pivot%20Index/0724-Find%20Pivot%20Index.md)
 - [0763-划分字母区间](./solutions/0763-Partition%20Labels/0763-Partition%20Labels.md)
