@@ -104,6 +104,7 @@ class Solution {
 
         TreeNode root = new TreeNode(midval);
         int leftlen = index - inStart;
+        // Here
         root.left = build(preorder, preStart + 1, preStart + leftlen, inorder, inStart, index - 1);
         root.right = build(preorder, preStart + leftlen + 1, preEnd, inorder, index + 1, inEnd);
 
