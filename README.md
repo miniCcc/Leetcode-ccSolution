@@ -21,7 +21,7 @@
 - [0090-子集 II](./solutions/0090-Subsets%20II/0090-Subsets%20II.md)
 - [0094-二叉树的中序遍历](./solutions/0094-Binary%20Tree%20Inorder%20Traversal/0094-Binary%20Tree%20Inorder%20Traversal.md)
 - [0105-从前序与中序遍历序列构造二叉树](./solutions/0105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/0105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
-- [0106-[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)](./solutions/0106-Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/0106-Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
+- [0106-从中序与后序遍历序列构造二叉树](./solutions/0106-Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/0106-Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
 - [0114-二叉树展开为链表](./solutions/0114-Flatten%20Binary%20Tree%20to%20Linked%20List/0114-Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 - [0216-组合总和](./solutions/0216-Combination%20Sum%20III/0226-Invert%20Binary%20Tree.md)
 - [0226-翻转二叉树](./solutions/0226-Invert%20Binary%20Tree/0226-Invert%20Binary%20Tree.md)
