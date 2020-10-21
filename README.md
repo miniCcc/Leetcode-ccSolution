@@ -27,6 +27,7 @@
 - [0226-翻转二叉树](./solutions/0226-Invert%20Binary%20Tree/0226-Invert%20Binary%20Tree.md)
 - [0238-除自身以外数组的乘积](./solutions/0238-Product%20of%20Array%20Except%20Self/0238-Product%20of%20Array%20Except%20Self.md)
 - [0287-寻找重复数](./solutions/0287-Find%20the%20Duplicate%20Number/0287-Find%20the%20Duplicate%20Number.md)
+- [0297-二叉树的序列化与反序列化](./solutions/0297-Serialize%20and%20Deserialize%20Binary%20Tree/0297-Serialize%20and%20Deserialize%20Binary%20Tree.md)
 - [0347-前K个高频元素](./solutions/0347-Top%20K%20Frequent%20Elements/0347-Top%20K%20Frequent%20Elements.md)
 - [0357-计算各个位数不同的数字个数](./solutions/357-Count%20Numbers%20with%20Unique%20Digits/357-Count%20Numbers%20with%20Unique%20Digits.md)
 - [0442-数组中重复的数据](./solutions/0442-Find%20All%20Duplicates%20in%20an%20Array/0442-Find%20All%20Duplicates%20in%20an%20Array.md)
