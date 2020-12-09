@@ -32,6 +32,7 @@
 - [0357-计算各个位数不同的数字个数](./solutions/357-Count%20Numbers%20with%20Unique%20Digits/357-Count%20Numbers%20with%20Unique%20Digits.md)
 - [0442-数组中重复的数据](./solutions/0442-Find%20All%20Duplicates%20in%20an%20Array/0442-Find%20All%20Duplicates%20in%20an%20Array.md)
 - [0500-键盘行](./solutions/0500-Keyboard%20Row/0500-Keyboard%20Row.md)
+- [0526-优美的排列](./solutions/0526-Beautiful%20Arrangement/0526-Beautiful%20Arrangement.md)
 - [0594-最长和谐子序列](./solutions/0594-Longest%20Harmonious%20Subsequence/0594-Longest%20Harmonious%20Subsequence.md)
 - [0621-任务调度器](./solutions/0621-Task%20Scheduler/0621-Task%20Scheduler.md)
 - [0647-回文子串](./solutions/0647-Palindromic%20Substrings/0647-Palindromic%20Substrings.md)
