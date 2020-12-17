@@ -1,5 +1,5 @@
 # leetcode-cc
-:muscle:仅此记录我的刷题之路，希望我能坚持，目前简单题做的差不多了，在中等题里挣扎，直接`ctrl+f`搜索相应题目即可
+:muscle:仅此记录我的刷题之路，希望我能坚持，直接`ctrl+f`搜索相应题目即可
 
 :mag_right:**直接点击相应题目的.md后缀文件查看即可**
 
@@ -18,6 +18,7 @@
 - [0078-子集](./solutions/0078-Subsets/0078-Subsets.md)
 - [0080-删除排序数组中的重复项 II](./solutions/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II.md)
 - [0086-分隔链表](./solutions/0086-Partition%20List/0086-Partition%20List.md)
+- [0089-格蕾编码](./solutions/0089-Gray%20Code/0089-Gray%20Code.md)
 - [0090-子集 II](./solutions/0090-Subsets%20II/0090-Subsets%20II.md)
 - [0094-二叉树的中序遍历](./solutions/0094-Binary%20Tree%20Inorder%20Traversal/0094-Binary%20Tree%20Inorder%20Traversal.md)
 - [0105-从前序与中序遍历序列构造二叉树](./solutions/0105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/0105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
