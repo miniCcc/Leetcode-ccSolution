@@ -12,7 +12,7 @@
 解释：有两条路径 0 -> 1 -> 3 和 0 -> 2 -> 3
 ```
 
-![image](D:\资料\笔记库\Leetcode-ccSolution\Leetcode-ccSolution\solutions\0797-All Paths From Source to Target\all_1.jpg)
+![image](all_1.jpg)
 
 **示例 2：**
 

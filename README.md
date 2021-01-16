@@ -1,9 +1,9 @@
 # leetcode-cc
-:muscle:仅此记录我的刷题之路，希望我能坚持，直接`ctrl+f`搜索相应题目即可
+:muscle:仅此记录我的刷题之路，希望我能坚持！
 
-:mag_right:**直接点击相应题目的.md后缀文件查看即可**
+:mag_right:**直接`ctrl+f`搜索相应题目或者题号就可点击查看**
 
-:warning:【注】：所有记录都不是最优解，只是自己写的，或者看别人的，不会专门搬最优解上来
+:warning:【注】：所有记录都不是最优解，只是自己写的，或者看别人的，不会专门搬最优解上来，仅此作为一个记录仓库
 
 ---
 
@@ -16,6 +16,7 @@
 - [0049-字母异位词分组](./solutions/0049-Group%20Anagrams/0049-Group%20Anagrams.md)
 - [0077-组合](./solutions/0077-Combinations/0077-Combinations.md)
 - [0078-子集](./solutions/0078-Subsets/0078-Subsets.md)
+- [0079-单词搜索](./solutions/0079-Word%20Search/0079-Word%20Search.md)
 - [0080-删除排序数组中的重复项 II](./solutions/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II.md)
 - [0086-分隔链表](./solutions/0086-Partition%20List/0086-Partition%20List.md)
 - [0089-格蕾编码](./solutions/0089-Gray%20Code/0089-Gray%20Code.md)
@@ -51,6 +52,7 @@
 - [0872-叶子相似的树](./solutions/0872-Leaf-Similar%20Trees/0872-Leaf-SimilarTrees.md)
 - [0908-最小差值 I](./solutions/0908-Smallest%20Range%20I/0908-Smallest%20Range%20I.md)
 - [0965-单值二叉树](./solutions/0965-Univalued%20Binary%20Tree/0965-Univalued%20Binary%20Tree.md)
+- [0967-连续差相同的数字](./solutions/0967-Numbers%20With%20Same%20Consecutive%20Differences/0967-Numbers%20With%20Same%20Consecutive%20Differences.md)
 - [0970-强整数](./solutions/0970-Powerful%20Integers/0970-Powerful%20Integers.md)
 - [1022-从根到叶的二进制数之和](./solutions/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)
 - [1051-高度检查器](./solutions/1051-Height%20Checker/1051-Height%20Checker.md)
