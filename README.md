@@ -60,9 +60,13 @@
 - [1079-活字印刷](./solutions/1079-Letter%20Tile%20Possibilities/1079-Letter%20Tile%20Possibilities.md)
 - [1170-比较字符串最小字母出现频次](./solutions/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.md)
 - [1189-“气球”的最大数量](./solutions/1189-Maximum%20Number%20of%20Balloons/1189-Maximum%20Number%20of%20Balloons.md)
+- [1219-黄金矿工](./solutions/1219-Path%20with%20Maximum%20Gold/1219-Path%20with%20Maximum%20Gold.md)
+- [1239-串联字符串的最大长度](./solutions/1239-Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/1239-Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.md)
+- [1415-长度为n的开心字符串中字典序第k小的字符串](./solutions/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n.md)
 - [1446-连续字符](./solutions/1446-Consecutive%20Characters/1446-Consecutive%20Characters.md)
 - [1460-通过翻转子数组使两个数组相等](./solutions/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.md)
 - [1480-一维数组的动态和](./solutions/1480-Running%20Sum%20of%201d%20Array/1480-Running%20Sum%20of%201d%20Array.md)
 - [1486-数组异或操作](./solutions/1486-XOR%20Operation%20in%20an%20Array/1486-XOR%20Operation%20in%20an%20Array.md)
+- [1641-统计字典序元音字符串的数据](./solutions/1641-Count%20Sorted%20Vowel%20Strings/1641-Count%20Sorted%20Vowel%20Strings.md)
 
 
